@@ -57,7 +57,7 @@ input#keyword.form-control  {
     background-image: linear-gradient(to right, rgba(179,220,237,1) 0%, rgba(179,220,237,1) 10%, rgba(41,184,229,1) 69%, rgba(188,224,238,1) 100%);
     color: white;
     margin-left: 27px;
-    width: 100px;
+    width: 150px;;
 
 }
 
@@ -176,7 +176,6 @@ img#youtube-pic {
 a.nav-link.active {
   border: 1px solid white;
 }
-
 
 
 
